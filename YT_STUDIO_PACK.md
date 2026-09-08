@@ -1,16 +1,22 @@
-# YouTube Studio pack — Flywheel Spinning Up (DRAFT)
+# YouTube Studio pack — Flywheel Spinning Up (SHIPPED)
 
-**Public:** @littletechbird · no real name / no private aliases on public surfaces  
-**Ship gate:** upload / publish only on explicit GO
+**Public:** @littletechbird · no real surname / no private aliases on public surfaces  
+**Status:** Live on YouTube — https://youtu.be/kwTkalP0_bk  
+**X proof:** https://x.com/littletechbird/status/2097363704475971668
 
 ---
 
-## Title (options)
-1. **Flywheel Spinning Up** — for Elon, Gwen & everyone building
+## Title (shipped)
+
+**Flywheel Spinning Up**
+
+Dedication lives in the description / X caption (not jammed into the title).
+
+### Title options (archive)
+
+1. **Flywheel Spinning Up** — for Elon, Gwen & everyone building ← **shipped**
 2. Flywheel Spinning Up | a tribute to Elon, Gwynne Shotwell & the builders
 3. Flywheel Spinning Up (Akira AMV) — Voltron for Humanity
-
-**Hatch pick for GO:** option 1 (clean; dedication lives in description)
 
 ---
 
@@ -35,34 +41,55 @@ No AI talking heads on screen — mouths closed; the song carries the words. Tur
 ---
 
 ## Tags
+
 Flywheel Spinning Up, Elon Musk, Gwynne Shotwell, Tesla, SpaceX, Starlink, Optimus, Cybercab, xAI, Grok, Neuralink, Boring Company, AMV, Akira, littletechbird, tribute, Voltron, humanity
 
 ---
 
 ## Playlist / category
+
 Music (or Film & Animation if Music unavailable)  
 Made for kids: **No**
 
 ---
 
+## Master note
+
+Shipped master is the **silent-tail** cut: song completes, then a short silent hold on picture before file end (no dead-air bleed into Shorts finale windows).
+
+---
+
 ## Captions
-Upload timed lyrics-locked SRT (with timing, not auto-sync paste)  
-Default: viewer choice for CC on/off
+
+Lyrics-locked timed SRT (not auto-sync paste):
+
+- Repo: [`captions/Flywheel-Spinning-Up-lyrics-v2.en.srt`](captions/Flywheel-Spinning-Up-lyrics-v2.en.srt)
+- Default: viewer choice for CC on/off
 
 ---
 
 ## Thumbnail
-TBD after GO — prefer Voltron assemble / flywheel + Elon+Gwen respectful Akira still
+
+**Preference: C** (Akira / flywheel still — respectful, readable at small size).  
+A/B/C and Elon-flywheel variants were reviewed at ship; **C** is the bank preference.
+
+---
+
+## Shorts
+
+Five framed 9:16 cuts prepared locally — **upload halted**; public Shorts links TBD. See [`SHORTS.md`](SHORTS.md).
 
 ---
 
 ## Japan reach
+
 Include JP-friendly tags/comments at ship time; consider JP title line in description if wanted.
 
 ---
 
 ## Antis on public copy
-- No real name / no private aliases
+
+- No real surname / no private aliases
 - No dunk / competitor framing — tribute
 - No claim we speak for Tesla/SpaceX
 - Respect: Gwynne as role model (Ivy / baby bird)

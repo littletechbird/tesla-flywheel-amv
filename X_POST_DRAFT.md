@@ -1,12 +1,14 @@
-# X POST — Flywheel Spinning Up (DRAFT — live post only on explicit GO)
+# X POST — Flywheel Spinning Up (DRAFT — SUPERSEDED)
 
-**Account:** @littletechbird (browser)  
-**Standing:** explicit GO before live X  
-**No:** creator real name / local device brand names  
+**Status:** Superseded by the live shipped caption in [`X_POST.md`](X_POST.md).  
+**Proof:** https://x.com/littletechbird/status/2097363704475971668  
+**YouTube:** https://youtu.be/kwTkalP0_bk  
+
+Kept for history only. Do not paste this draft for new posts.
 
 ---
 
-## Caption (paste)
+## Caption (historical draft — do not use)
 
 ```
 dropped a new AMV.
@@ -19,10 +21,4 @@ for Mrs. Bird, Baby Bird, and LittleTechBird.
 [YOUTUBE_URL]
 ```
 
----
-
-## Notes
-- Replace `[YOUTUBE_URL]` after Studio upload.
-- Prefer one dense post over a thread.
-- Optional JP-friendly reply later for Japan reach.
-- Any craft-reference honor of another creator is **private / X-only by agreement** — not documented with names in this public repo.
+Live GO replaced `[YOUTUBE_URL]` and expanded the spokes dedication — see [`X_POST.md`](X_POST.md).

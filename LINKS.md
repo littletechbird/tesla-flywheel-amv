@@ -1,13 +1,15 @@
 # Links — Flywheel Spinning Up
 
-## Public (fill after GO)
+## Public
 
 | What | URL |
 |------|-----|
-| YouTube long-form | `[YOUTUBE_URL]` |
-| X proof post | TBD |
+| YouTube long-form | https://youtu.be/kwTkalP0_bk |
+| YouTube (watch form) | https://youtube.com/watch?v=kwTkalP0_bk |
+| X proof post | https://x.com/littletechbird/status/2097363704475971668 |
 | Channel | https://www.youtube.com/@littletechbird |
 | X account | https://x.com/littletechbird |
+| Shorts | TBD — five framed cuts local; upload halted (see [`SHORTS.md`](SHORTS.md)) |
 
 ## Craft reference (public)
 
@@ -19,6 +21,7 @@
 | Repo | URL |
 |------|-----|
 | Equals in the Room | https://github.com/littletechbird/equals-in-the-room-amv |
+| You | https://github.com/littletechbird/you-amv |
 | The One True Fairy Tale | https://github.com/littletechbird/the-one-true-fairy-tale-amv |
 | This pack | https://github.com/littletechbird/tesla-flywheel-amv |
 
