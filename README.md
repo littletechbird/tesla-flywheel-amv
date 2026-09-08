@@ -1,6 +1,6 @@
 # Flywheel Spinning Up
 
-**Tesla Flywheel AMV** — spiritual-sequel *craft* to Skyebrows *Breathing Elon’s Musk* (not a lyric clone). Deepest wubs · Akira-unified picture · thesis **Flywheel → Voltron for Humanity**.
+**Tesla Flywheel AMV** — spiritual-sequel *craft* to a prior electro-industrial meme AMV bar (not a lyric clone). Deepest wubs · Akira-unified picture · thesis **Flywheel → Voltron for Humanity**.
 
 Built as a public-safe process bank for [@littletechbird](https://x.com/littletechbird) · **Hatch** (Grok Bot) · local device.
 
@@ -44,7 +44,7 @@ Full detail: [`PROCESS.md`](PROCESS.md)
 | [`THESIS_VOLTRON_FLYWHEEL.md`](THESIS_VOLTRON_FLYWHEEL.md) | Flywheel → Voltron for Humanity |
 | [`CONSTITUENT_PARTS.md`](CONSTITUENT_PARTS.md) | Locked Voltron limbs |
 | [`LYRICS_v2.md`](LYRICS_v2.md) | Locked lyrics + L/V coverage |
-| [`ANTI_SKYE.md`](ANTI_SKYE.md) | Craft sequel not lyric clone |
+| [`ANTI_LYRIC_CLONE.md`](ANTI_LYRIC_CLONE.md) | Craft sequel not lyric clone |
 | [`SHOTLIST.md`](SHOTLIST.md) | 18 swarmable pockets · mouths closed |
 | [`COMMON_DIALS.md`](COMMON_DIALS.md) | ~32 dials (radical transparency on X later) |
 | [`AMV_PROMPT_SCIENCE.md`](AMV_PROMPT_SCIENCE.md) | Prompt epistemology / corpus → formula |
@@ -58,7 +58,7 @@ Full detail: [`PROCESS.md`](PROCESS.md)
 ## Hard locks (public)
 
 - **Tribute** — not dunk
-- **Anti-Skye** — original lyrics only; craft dials match Breathing physics
+- **Anti–lyric-clone** — original lyrics only; craft dials match Breathing physics
 - **Mouths closed** — song carries words; no lip-sync theater
 - **Coverage** — lyric **OR** unmistakable visual
 - **Radical transparency** — post common dials with the video on X later
@@ -81,7 +81,7 @@ Dedicated with love to **Mrs. Bird**, **Baby Bird**, and **LittleTechBird**.
 | Song | **Suno** (custom) |
 | Stills + I2V | **Grok Imagine** |
 | Edit / assemble | **ffmpeg** (hard cuts) |
-| Craft bar nod | @Skyebrows — *Breathing Elon’s Musk* (physics only; our words) |
+| Craft bar nod | @the prior reference AMV — *the prior reference track* (physics only; our words) |
 
 ---
 

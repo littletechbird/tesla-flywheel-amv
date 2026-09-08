@@ -15,7 +15,7 @@ Video/audio binaries are **not** in this repo. Optional Drive review folder (pri
 ```
 nouns / dials
   → sequel formula (craft physics lock)
-  → lyrics (anti-Skye; original words only)
+  → lyrics (anti–lyric-clone; original words only)
   → Suno custom (deepest wubs · ~136 BPM · ~220s bed)
   → stills (Akira · closed mouths · product silhouette locks)
   → I2V takes (short clips · swarm necessary cuts)
@@ -25,7 +25,7 @@ nouns / dials
   → ship (YT + X on explicit GO · radical transparency dials later)
 ```
 
-Do not skip formula. Do not clone Skyebrows lyrics. Do not lip-sync theater. Do not ship without GO.
+Do not skip formula. Do not clone the prior reference AMV lyrics. Do not lip-sync theater. Do not ship without GO.
 
 ---
 
@@ -43,12 +43,12 @@ Do not skip formula. Do not clone Skyebrows lyrics. Do not lip-sync theater. Do 
 
 ---
 
-## 2. Lyrics (anti-Skye)
+## 2. Lyrics (anti–lyric-clone)
 
 | Artifact | Role |
 |----------|------|
 | [`LYRICS_v2.md`](LYRICS_v2.md) | Locked overnight lyrics + L/V coverage checklist |
-| [`ANTI_SKYE.md`](ANTI_SKYE.md) | Craft sequel only — no shared lines/hooks/phrases |
+| [`ANTI_LYRIC_CLONE.md`](ANTI_LYRIC_CLONE.md) | Craft sequel only — no shared lines/hooks/phrases |
 
 Hook stamp: **Flywheel Spinning Up**. Thin rule: sing thesis / hook / flywheel / Voltron / humanity / deepest wubs; products & cameos via **L** or **V**.
 
@@ -107,7 +107,7 @@ Typical normalize: 1280×720, 30 fps, silent picture bed → mux master audio �
 ## Hard locks (carry forward)
 
 - **Tribute** tone — not dunk / satire clone
-- **Anti-Skye** lyrics — original words only
+- **Anti–lyric-clone** lyrics — original words only
 - **Mouths closed** on picture
 - **Lyric OR visual** mention coverage
 - **Radical transparency** — publish common dials on X after ship

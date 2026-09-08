@@ -1,5 +1,5 @@
 # Tesla Flywheel — SEQUEL FORMULA
-**Spiritual sequel to Skyebrows *Breathing Elon’s Musk*** — not a clone.  
+**Spiritual sequel to a prior electro-industrial meme AMV bar** — not a clone.  
 These dials are the **forcing function**. Same craft physics → sequel feel. Our content + Akira art + tribute heart.
 
 ---
@@ -13,7 +13,7 @@ These dials are the **forcing function**. Same craft physics → sequel feel. Ou
 | EnergyCurve | relentless high | same drive |
 | LowEmphasis | **MAX — only the deepest / sickest wubs** | Breathing is surprisingly bass-heavy; window-shake living-room bar |
 | VocalStyle | rapid verses + stamp hook | lyric craft bar = his |
-| HookPhrase | **Flywheel Spinning Up** | same stamp cadence as “Breathing Elon’s Musk” |
+| HookPhrase | **Flywheel Spinning Up** | same stamp-cadence *shape* as strong meme hooks (ours: Flywheel Spinning Up) |
 | LyricStructure | dense verses + recurring hook | same architecture |
 | LyricDensity | dense / high craft | his lyrics are amazing — that bar |
 | RhymeScheme | AABB-lean (default) | sequel rhyme physics |
@@ -88,8 +88,8 @@ Characters on-screen **do not sing the lyrics** and **do not open mouths to talk
 ## Continuity max
 Many cuts/scenes — **do what you can to max continuity**: character bibles + ref stills, identical Akira lock nouns every pocket, freeze keeper stills before I2V, limited discrete faces, product silhouette masters, no wardrobe/face drift between swarm jobs.
 
-## Anti-Skye lyrics
-Craft sequel only. **Do not step on Skyebrows lyrics** — no shared lines/hooks/phrases. Original words only. See [`ANTI_SKYE.md`](ANTI_SKYE.md).
+## Anti–lyric-clone lyrics
+Craft sequel only. **Do not step on the prior reference AMV lyrics** — no shared lines/hooks/phrases. Original words only. See [`ANTI_LYRIC_CLONE.md`](ANTI_LYRIC_CLONE.md).
 
 ## Upscale
 This AMV may be **worth paying to upscale to 2K/4K later** (post-lock master). Keep native Imagine max for gen; upscale is a paid finishing pass.
