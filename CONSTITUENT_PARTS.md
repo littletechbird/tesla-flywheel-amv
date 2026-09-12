@@ -1,4 +1,4 @@
-# Voltron constituent parts — LOCKED (Brent GO spend 2026-09-08)
+# Voltron constituent parts — LOCKED (GO spend locked 2026-09-08)
 
 These are the pieces that assemble into **Voltron for Humanity**.  
 Lyric mention ⇒ on-screen. Shared frames OK. Akira unified. Deepest wubs.
@@ -41,7 +41,7 @@ Lyric mention ⇒ on-screen. Shared frames OK. Akira unified. Deepest wubs.
 ## Formula force
 ~220s · 136 BPM · max deepest wubs · frantic cuts · neon+fire · hook **Flywheel Spinning Up** · tribute · Japan ship later
 
-## Mention coverage REVISED (Brent 2026-09-08)
+## Mention coverage REVISED (locked 2026-09-08)
 A constituent part is **covered** if EITHER:
 1. Named clearly in lyrics, OR
 2. Pictured unmistakably on-screen (silhouette / face / product read is certain)
@@ -51,5 +51,5 @@ A constituent part is **covered** if EITHER:
 - Burned-in text is optional spice; prefer recognizable image over glyph soup.
 - Handcuffs: research clear-text + clear-product Imagine prompts (`research/IMAGINE_CLEAR_MENTION.md`).
 
-## Mouths closed (Brent 2026-09-08)
+## Mouths closed (locked 2026-09-08)
 Characters on-screen **do not sing the lyrics** and **do not open mouths to talk**. Closed-mouth / action / dance / stare. Easier to keep footage (no lip-sync tax with Imagine).
