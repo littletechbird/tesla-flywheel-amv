@@ -154,5 +154,5 @@ Kept sung: **Flywheel / Spinning Up / Voltron / humanity / deepest wubs / Jacob�
 
 ## Antis (carry into Suno/Imagine later — not tonight)
 - Tribute tone · no dunk clone  
-- No laundry-list recovery in v3 without Brent  
+- No laundry-list recovery in v3 without @littletechbird  
 - Mouths closed on picture · no sing/talk flaps  
