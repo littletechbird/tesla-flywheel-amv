@@ -1,52 +1,59 @@
-# Shorts — Flywheel Spinning Up
+# Shorts — Flywheel Spinning Up (silk 4K)
 
-Portrait (9:16) hard hits from the silent-tail master.
+Cut from the silk 4K master (center-crop 16:9→9:16 for portrait; landscape keeps 4K).
 
-**Status:** Five framed Shorts **cut locally** — **upload halted**. YouTube Shorts links **TBD**.
+**Status:** **Published** on [@littletechbird](https://www.youtube.com/@littletechbird) — 2026-09-17 PT.
 
-**Long-form parent:** https://youtu.be/kwTkalP0_bk
+**Long-form parent:** https://youtu.be/UAX-QMoTlhU
 
 Binary Shorts files are **not** stored in this docs repo.
 
 ---
 
-## Windows (public-safe)
+## Portrait (9:16) — published
 
-| # | Working title | Master start–end | Duration | Crop note | YouTube |
-|---|---------------|------------------|----------|-----------|---------|
-| 01 | Hook stamp | 31.5–51.5 s | 20.0 s | Static crop biased left/center for early energy → man + Cybercab | TBD |
-| 02 | Cybercab / Robotaxi | 53.0–76.5 s | 23.5 s | Slightly right of center — driver CU / neon lead | TBD |
-| 03 | Optimus / Bridge assemble | 78.0–105.0 s | ~27.0 s | Mid-clip crop shift (left heroes → engineer beat) | TBD |
-| 04 | Dance / bird + Hatch | 138.0–165.0 s | 27.0 s | Left-biased — Hatch + bird orb | TBD |
-| 05 | Final hook / Voltron mesh | 171.0–199.0 s | 28.0 s | Near-center mecha core; ends before silent tail | TBD |
+| # | Title | Window (master) | Duration | YouTube |
+|---|-------|-----------------|----------|---------|
+| P01 | Optimus Punch \| Flywheel #Shorts | 124.5–136.5 s | 12 s | https://youtu.be/rbMj1Ps-4Hs |
+| P02 | Fleet in Formation \| Flywheel #Shorts | 18.0–42.0 s | 24 s | https://youtu.be/G78BXMrvbag |
+| P03 | Cybercab Morning Gold \| Flywheel #Shorts | 66.5–84.5 s | 18 s | https://youtu.be/DVSYbCIgvCs |
+| P04 | Flywheel Spinning Up \| Chorus #Shorts | 45.5–64.0 s | 19 s | https://youtu.be/N6EEz18bta0 |
 
-Encode class (production): H.264 · yuv420p · scale **1080×1920** (lanczos) from a 9:16 crop of the 1280×720 master. No burned-in captions.
+Encode: H.264 · yuv420p · **2160×3840** (4K Shorts) from center crop of 3840×2160 silk master.
 
-Finale stops before the master silent tail (~200.8 s+) so Shorts keep bass and avoid dead air.
+---
+
+## Landscape (16:9) — published
+
+| # | Title | Window (master) | Duration | YouTube |
+|---|-------|-----------------|----------|---------|
+| L01 | Jacob's Ladder \| Flywheel #Shorts | 121.0–133.0 s | 12 s | https://youtu.be/3svT4eCfyQ0 |
+| L02 | Voltron Mesh Forever Fresh \| Flywheel #Shorts | 188.0–208.0 s | 20 s | https://youtu.be/wYcjFDEV8rw |
 
 ---
 
 ## Framing rule
 
-When cropping landscape → 9:16, **inspect character positions** per beat. Do not blind center-crop if subjects sit off-center — bias (or mid-clip shift) so faces / heroes stay in frame. Wide dual layouts may lose flank text or secondary subjects; prioritize the beat’s primary subject.
+When cropping landscape → 9:16, **inspect character positions** per beat. Keep subject + action **centered** in the vertical frame (YouTube reverse-letterbox / side crop).
 
 ---
 
-## Description pattern (when upload resumes)
+## Description pattern
 
 ```
 [short hook line]
 
-Full track: https://youtu.be/kwTkalP0_bk
+Full AMV (4K): https://youtu.be/UAX-QMoTlhU
 
-#Tesla #Flywheel #Shorts
+#Shorts #Tesla #Flywheel #AMV #littletechbird
 ```
 
 ---
 
 ## QC checklist
 
-- [x] Five windows framed locally (01–05)
-- [x] Durations under 59 s hard max
-- [x] No burned-in captions
-- [ ] Uploaded as public Shorts (halted — links TBD)
+- [x] Four portrait Shorts (incl. Optimus punch priority)
+- [x] Two landscape Shorts
+- [x] Centered 9:16 crops; audio in sync
+- [x] Public scrub — littletechbird only in metadata
+- [x] Published public Shorts with links
