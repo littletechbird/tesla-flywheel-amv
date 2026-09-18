@@ -12,14 +12,14 @@ Video/audio binaries are **not** in this repo (too large). This pack is the fore
 
 | What | Link |
 |------|------|
-| **YouTube long-form** | https://youtu.be/kwTkalP0_bk · https://youtube.com/watch?v=kwTkalP0_bk |
+| **YouTube long-form (silk 4K)** | https://youtu.be/UAX-QMoTlhU · https://youtube.com/watch?v=UAX-QMoTlhU |
 | **X post (proof)** | https://x.com/littletechbird/status/2097363704475971668 |
 | Channel | https://www.youtube.com/@littletechbird |
 | Optional Drive review (private) | folder id `13Obo-jDhRl8PRWMT1fb5Vs1KGJf3M8RJ` |
 
-### Shorts (9:16)
+### Shorts
 
-Five framed Shorts cut locally — **upload halted**; links TBD. See [`SHORTS.md`](SHORTS.md).
+Portrait (9:16) + landscape cuts from the silk 4K master — see [`SHORTS.md`](SHORTS.md) for titles, windows, and published links (updated as they ship).
 
 ---
 
@@ -27,11 +27,11 @@ Five framed Shorts cut locally — **upload halted**; links TBD. See [`SHORTS.md
 
 | Item | Value |
 |------|-------|
-| Title | **Flywheel Spinning Up** |
-| Master | Silent-tail cut (song ends → brief silence held on master) |
-| Picture | Grok Imagine stills → I2V pockets → ffmpeg hard cuts |
-| Song | Suno custom |
-| Captions | lyrics-locked SRT — [`captions/Flywheel-Spinning-Up-lyrics-v2.en.srt`](captions/Flywheel-Spinning-Up-lyrics-v2.en.srt) |
+| Title | **Flywheel Spinning Up \| 4K** |
+| Master | Silk vocal remake + full picture rebuild (Real-ESRGAN 4K) |
+| Picture | Grok Imagine → motion rebuild → ffmpeg assemble |
+| Song | Suno custom (silk) |
+| Captions | lyrics-locked SRT (silk align) |
 | Thumb preference | **C** (see [`YT_STUDIO_PACK.md`](YT_STUDIO_PACK.md)) |
 | X caption | Live “spokes of the flywheel” — [`X_POST.md`](X_POST.md) |
 
@@ -40,7 +40,7 @@ Five framed Shorts cut locally — **upload halted**; links TBD. See [`SHORTS.md
 ## Sister guides
 
 | Guide | Role |
-|-------|------|
+|------|-------|
 | **[Equals in the Room](https://github.com/littletechbird/equals-in-the-room-amv)** | Hatch origin AMV — wager, burn sheet, chip-away lessons |
 | **[You](https://github.com/littletechbird/you-amv)** | Neon dance AMV — littletechbird + Hatch as equals |
 | **[The One True Fairy Tale](https://github.com/littletechbird/the-one-true-fairy-tale-amv)** | Turn-key poem → Suno → Imagine → keepable AMV |
@@ -71,7 +71,7 @@ Full detail: [`PROCESS.md`](PROCESS.md)
 | [`YT_STUDIO_PACK.md`](YT_STUDIO_PACK.md) | Shipped Studio pack (title / desc / tags / captions / thumb) |
 | [`X_POST.md`](X_POST.md) | Live X caption (spokes of the flywheel) |
 | [`X_POST_DRAFT.md`](X_POST_DRAFT.md) | **Superseded** by `X_POST.md` — kept for history |
-| [`SHORTS.md`](SHORTS.md) | Five framed Shorts — cut locally; upload halted; links TBD |
+| [`SHORTS.md`](SHORTS.md) | Shorts cut list + publish links |
 | [`captions/Flywheel-Spinning-Up-lyrics-v2.en.srt`](captions/Flywheel-Spinning-Up-lyrics-v2.en.srt) | Lyrics-locked English captions |
 | [`LINKS.md`](LINKS.md) | Public watch / X / sister guides |
 | [`LICENSE`](LICENSE) | MIT |
